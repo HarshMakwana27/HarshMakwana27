@@ -38,9 +38,22 @@
 <p align="left"><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshMakwana27&show_icons=true&locale=en&layout=compact" alt="HarshMakwana27" /></p>
+<picture>
 
-![My Status](https://github-readme-stats.vercel.app/api?username=HarshMakwana27&show_icons=true&theme=transparent)
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=HarshMakwana27&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=HarshMakwana27&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img   align="left", src="https://github-readme-stats.vercel.app/api?username=HarshMakwana27&show_icons=true" />
+</picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshMakwana27&" alt="HarshMakwana27" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshMakwana27&" alt="HarshMakwana27" /></p>
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMakwana27&layout=compact)](https://github.com/HarshMakwana27/HarshMakwana27/README)
+
 
