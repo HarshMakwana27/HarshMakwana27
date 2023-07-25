@@ -56,4 +56,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMakwana27&layout=compact)](https://github.com/HarshMakwana27/HarshMakwana27/README)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/HarshMakwana27)
+
