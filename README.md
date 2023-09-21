@@ -3,7 +3,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=Harshmakwana27&color=green)
+![my repo](https://komarev.com/ghpvc/?username=Harshmakwana27&color=green)
 
 
 
@@ -17,7 +17,7 @@
 
 🔭 I’m proficient in flutter
 
-👨‍💻 All of my projects are available at [https://github.com/HarshMakwana27?tab=repositories](https://github.com/HarshMakwana27?tab=repositories)
+👨‍💻 All of my projects are available at [My Repos](https://github.com/HarshMakwana27?tab=repositories)
 
 📫 Reach me at **harshmakwanaa27@gmail.com**
 
