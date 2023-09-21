@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋, I'm Harsh Makwana </h1>
-<h3 align="center">Student Developer + Flutter Enthusiast : Forging the Path of Innovation</h3>
+<h3 align="center">Student Programmer + developer : Forging the Path of Innovation</h3>
 
 
 
@@ -13,7 +13,9 @@
 
 <div align="Left">
 
-🔭 I’m currently learning Flutter
+🔭 I’m currently learning MEAN stack
+
+🔭 I’m proficient in flutter
 
 👨‍💻 All of my projects are available at [https://github.com/HarshMakwana27?tab=repositories](https://github.com/HarshMakwana27?tab=repositories)
 
@@ -35,9 +37,45 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  </p>
+<p align="left">
 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+
+
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="firebase" width="40" height="40"/>
+
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="firebase" width="40" height="40"/> </a> 
+
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+<img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="firebase" width="40" height="40"/> </a> 
+
+
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="firebase" width="80" /> </a> 
+  
+  
+  
+  </p>
 <picture>
 
   <source
