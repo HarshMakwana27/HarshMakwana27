@@ -72,10 +72,13 @@
 
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="firebase" width="80" /> </a> 
-  
-  
-  
+
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="firebase" width="80" /> </a> 
+
   </p>
+
+[![An image of @harshmakwana27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshmakwana27)](https://holopin.io/@harshmakwana27)
 <picture>
 
   <source
