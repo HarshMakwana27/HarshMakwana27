@@ -13,7 +13,7 @@
 
 <div align="Left">
 
-🔭 I’m currently learning Machine Learning
+🔭 I’m currently learning ML
 
 🔭 I’m proficient in flutter
 
@@ -69,9 +69,6 @@
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
 <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="firebase" width="40" height="40"/> </a> 
 
-
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="firebase" width="80" /> </a> 
 
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="firebase" width="80" /> </a> 
